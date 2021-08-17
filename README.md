@@ -1,5 +1,5 @@
-# GensimWikiVector
-## 將Wiki的文章，用Jieba斷字，如要繁體，用OpenCC轉成繁體後再訓練。
+# GensimWikiWord2Vector
+## 將Wiki的文章，用Jieba斷字，如要繁體，用OpenCC轉成繁體後再訓練。  
 
     使用Google Colab環境編輯，將檔案傳至雲端，若使用Jupyter Notebook環境根據檔案或是語法刪除或更改語句、語法
 
